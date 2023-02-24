@@ -8,7 +8,7 @@ I'm a beginner programmer, 13 y.o and I also program tools and publish them here
 :mailbox: Reach me out!
 
 [![instagram Badge](https://img.shields.io/badge/-@u.qdq-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/u.qdq)
-[![telegram Badge](https://img.shields.io/badge/-@rar_99-?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/rar_99)
+[![telegram Badge](https://img.shields.io/badge/-@rar_99-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/rar_99)
 
 
 ## Languages
