@@ -1,11 +1,14 @@
+<img src="https://i.pinimg.com/originals/3f/0c/3e/3f0c3ef5c85297634e8c1b7c9ed22e2f.gif">
+
+
 ## <h1>Hi I'm DEXTER 👋
 
-I'm a beginner programmer, 13 Y.O and I also program tools and publish them here. I hope you like my tools ☺️
+I'm a beginner programmer, 13 y.o and I also program tools and publish them here. I hope you like my tools ☺
 
 :mailbox: Reach me out!
 
-[![instagram Badge](https://img.shields.io/badge/-@u.qdq-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/221298)
-[![telegram Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/vv1ck)
+[![instagram Badge](https://img.shields.io/badge/-@u.qdq-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/u.qdq)
+[![telegram Badge](https://img.shields.io/badge/-@rar_99-?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/rar_99)
 
 
 ## Languages
