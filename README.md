@@ -3,7 +3,7 @@
 
 ## <h1>Hi I'm DEXTER 👋
 
-I'm a beginner programmer, 13 y.o and I also program tools and publish them here. I hope you like my tools ☺
+I'm a beginner programmer, 13 y.o
 
 :mailbox: Reach me out!
 
