@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/3f/0c/3e/3f0c3ef5c85297634e8c1b7c9ed22e2f.gif">
+<img src="https://i.pinimg.com/originals/78/5c/81/785c81065a2fcbe0fa76df69fae55438.gif">
 
 
 ## <h1>Hi I'm DEXTER 👋
