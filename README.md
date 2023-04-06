@@ -3,7 +3,7 @@
 
 ## <h1>Hi I'm DEXTER 👋
 
-I'm a beginner programmer, 13 y.o
+I'm a programmer, 13 y.o
 
 :mailbox: Reach me out!
 
