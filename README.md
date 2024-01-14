@@ -3,17 +3,18 @@
 
 ## <h1>Hi I'm DEXTER 👋
 
-I'm a programmer, 13 y.o
+I'm a programmer, 14 y.o
 
 :mailbox: Reach me out!
 
 [![instagram Badge](https://img.shields.io/badge/-@u.qdq-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/u.qdq)
-[![telegram Badge](https://img.shields.io/badge/-@rar_99-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/rar_99)
+[![twitter Badge](https://img.shields.io/badge/-@0xrar_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter/0xrar_)
 
 
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=HTML&logoColor=white)
 
 
 ## 📊 My Github Stats
