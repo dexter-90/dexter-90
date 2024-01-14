@@ -8,7 +8,7 @@ I'm a programmer, 14 y.o
 :mailbox: Reach me out!
 
 [![instagram Badge](https://img.shields.io/badge/-@u.qdq-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/u.qdq)
-[![twitter Badge](https://img.shields.io/badge/-@0xrar_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter/0xrar_)
+[![twitter Badge](https://img.shields.io/badge/-@0xrar_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/0xrar_)
 
 
 ## Languages
